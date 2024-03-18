@@ -1,3 +1,3 @@
-console.log(a);
-console.log(b);
-console.log(c);
+function printElement(element) {
+    console.log(element);
+}
