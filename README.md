@@ -1,2 +1,2 @@
-# js
-code repo for js
+# JavaScript Tutorial
+code repo for JS with commented notes
